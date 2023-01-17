@@ -1,4 +1,4 @@
-# Horários em PDF
+# Horários e Conversores em PDF
 
 Estão aqui disponíveis todos os horários em PDF atualmente em circulação na rede Carris Metropolitana, que serão atualizados sempre que houver alterações.
 
